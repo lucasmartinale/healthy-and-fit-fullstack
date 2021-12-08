@@ -6,6 +6,6 @@ Tecnologias empleadas:
 
 Frontend: html, css y js
 
-Backend: Django
+Backend: Django (Python)
 
 Base de datos: MariaDB
