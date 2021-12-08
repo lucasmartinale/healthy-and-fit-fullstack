@@ -9,5 +9,7 @@ class Socio(models.Model):
     direccion = models.CharField(max_length=40)
     meses_pagos = models.IntegerField()
 
-    #def __str__(self):
-    #    return 
+class Mensaje(models.Model):
+    nombre = models.CharField(max_length=30)
+    email = models.CharField(max_length=30)
+    mensaje = models.CharField(max_length=500)
