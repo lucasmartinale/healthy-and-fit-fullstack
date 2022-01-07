@@ -1,6 +1,6 @@
 # healthy-and-fit-fullstack
 
-Web con panel administrativo hecha para Curso de Fullstack General Pico
+Web con panel administrativo y formulario de contacto funcional hecha para Curso de Fullstack General Pico
 
 
 Tecnologias empleadas:
