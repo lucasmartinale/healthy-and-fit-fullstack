@@ -5,7 +5,7 @@ Web con panel administrativo hecha para Curso de Fullstack General Pico
 
 Tecnologias empleadas:
 
-Frontend: html, css y js
+Frontend: html, css y js (se utilizo plantilla en el frontend)
 
 Backend: Django (Python)
 
